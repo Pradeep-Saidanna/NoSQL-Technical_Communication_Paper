@@ -24,29 +24,29 @@ media, real-time analytics, and cloud platforms.
 1. MongoDB
 MongoDB is one of the most popular NoSQL databases. It stores data in a document format similar
 to JSON.
-** Useful when data structure changes frequently
-** Easy to use for developers working with JavaScript-based applications
-** Commonly used in web development
+* Useful when data structure changes frequently
+* Easy to use for developers working with JavaScript-based applications
+* Commonly used in web development
 2. Apache Cassandra
 Cassandra is designed for handling very large amounts of data across multiple servers.
-** Provides high availability and reliability
-** No single point of failure
-** Used in systems where uptime is very important
+* Provides high availability and reliability
+* No single point of failure
+* Used in systems where uptime is very important
 3. Redis
 Redis is a fast, in-memory key-value database.
-** Mainly used for caching and session storage
-** Provides very low latency
-** Supports different data structures
+* Mainly used for caching and session storage
+* Provides very low latency
+* Supports different data structures
 4. CouchDB
 CouchDB is another document-based database.
-** Works well in distributed environments
-** Supports data replication
-** Useful for applications that need offline support
+* Works well in distributed environments
+* Supports data replication
+* Useful for applications that need offline support
 5. Amazon DynamoDB
 DynamoDB is a cloud-based NoSQL database service.
-** Fully managed and easy to scale
-** Provides fast performance
-** Commonly used in cloud applications
+* Fully managed and easy to scale
+* Provides fast performance
+* Commonly used in cloud applications
 
 ## Conclusion
 After analyzing different NoSQL databases, it is clear that they can significantly
