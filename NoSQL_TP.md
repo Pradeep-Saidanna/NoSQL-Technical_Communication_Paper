@@ -1,5 +1,5 @@
 # NoSQL Satabases for improving Performance and Scalability
----
+
 
 ## Introduction
 In modern software development, many applications deal with large amounts of data and 
@@ -55,7 +55,6 @@ own strengths, so the choice depends on the specific requirements of the project
 Using a NoSQL database can help solve issues related to large data handling and system 
 performance.
 
----
 
 ## References
 MongoDB - https://www.mongodb.com/nosql-explained
