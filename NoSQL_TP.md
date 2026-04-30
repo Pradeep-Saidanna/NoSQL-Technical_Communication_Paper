@@ -15,7 +15,7 @@ Because of these features, NoSQL databases are widely used in modern application
 ## Analysis of NoSQL Databases
 1. MongoDB
 MongoDB is one of the most popular NoSQL databases. It stores data in a document format similar to JSON.
-  * Useful when data structure changes frequently.
+ * Useful when data structure changes frequently.
 * Easy to use for developers working with JavaScript-based applications.
 * Commonly used in web development.
 2. Apache Cassandra.
